@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, ich bin Marian
+
+Umschulung (Fachinformatiker Anwendungsentwicklung – FIAE) mit IHK-Abschluss (in progress).
+
+Aktuell lerne ich:
+- SQL / Datenbanken (Grundlagen)
+- Backend Basics
+- Git / GitHub
+- IT-Security Grundlagen
+
+📍 Germany (Raum Worms–Mannheim)  
+🎯 Suche: Praktikum / Einstieg  
+🔗 LinkedIn: https://www.linkedin.com/in/marian-copaciu-521578336/
