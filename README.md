@@ -1,4 +1,4 @@
-## Hi there 👋
+**Hi, ich bin Marian
 
 <!--
 **McG091/McG091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, ich bin Marian
-
 Umschulung (Fachinformatiker Anwendungsentwicklung – FIAE) mit IHK-Abschluss (in progress).
 
 Aktuell lerne ich:
