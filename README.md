@@ -22,6 +22,6 @@ Aktuell lerne ich:
 - Git / GitHub
 - IT-Security Grundlagen
 
-📍 Germany (Raum Worms–Mannheim)  
+📍 Germany   
 🎯 Suche: Praktikum / Einstieg  
 🔗 LinkedIn: https://www.linkedin.com/in/marian-copaciu-521578336/
